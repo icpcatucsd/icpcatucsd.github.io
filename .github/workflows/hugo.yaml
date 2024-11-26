@@ -18,7 +18,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
 defaults:
   run:
     shell: bash
