@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main>
+    <article>
+        <header>
+            <h1>{{.Title}}</h1>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+        {{ $image := resources.Get "images/all.jpeg" }}
+	    <img src="{{ ( $image.Resize "400x" ).RelPermalink }}" />
+    
+    </article>
+    <ul>
+    <!-- Ranges through content/posts/*.md -->
+    {{ range .Pages }}
+        <li>
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li></a></a>
+            
+            
+        </li>
+    {{ end }}
+    </ul>
+</main>
+{{ end }}
