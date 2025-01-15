@@ -46,3 +46,46 @@ Below are some resources for learning and practicing competitive programming.
 - [Greedy Algorithms](/slides/greedy_lesson.pdf)
 - [Number Theory](/slides/number_theory_lesson.pdf)
 - [Dynamic Programming](/slides/dp_lesson.pdf)
+
+## Past Contests
+
+All contest passwords are "ucsd_icpc".
+
+### Fall 2024
+
+- [Dynamic Programming](https://vjudge.net/contest/661444)
+- [Geometry](https://vjudge.net/contest/662497)
+- [Team Selection Practice](https://vjudge.net/contest/663329)
+- [Team Selection 2024](https://vjudge.net/contest/665193)
+- [Prefix Sum & Segment Tree](https://vjudge.net/contest/665737)
+- [Two Pointers, Sliding Window, & Merge Intervals](https://vjudge.net/contest/667415)
+- [Randomized Algorithms](https://vjudge.net/contest/672670)
+
+### Spring 2024
+
+- [Binary Search](https://vjudge.net/contest/621771)
+- [Shortest Paths](https://vjudge.net/contest/622365)
+- [Disjoin Set Union](https://vjudge.net/contest/624456)
+- [C++ STL](https://vjudge.net/contest/625434)
+- [Number Theory](https://vjudge.net/contest/627246)
+
+### Winter 2024 & Earlier
+
+- [FA23 Practice 1](https://vjudge.net/contest/586637)
+- [Team Selection 2023](https://vjudge.net/contest/587899)
+- [FA23 Practice 3](https://vjudge.net/contest/588341)
+- [FA23 Practice 4 (Lower Div)](https://vjudge.net/contest/589808)
+- [FA23 Practice 5 (Lower Div)](https://vjudge.net/contest/591341)
+- [FA23 Practice 5 (Upper Div)](https://vjudge.net/contest/591342)
+- [FA23 Practice 6 (Lower Div)](https://vjudge.net/contest/592939)
+- [FA23 Practice 7 (Lower Div)](https://vjudge.net/contest/594332)
+- [FA23 Practice 7 (Upper Div)](https://vjudge.net/contest/594331)
+- [FA23 Practice 8 (Upper Div)](https://vjudge.net/contest/595648)
+- [FA23 Practice 9](https://vjudge.net/contest/597007)
+- [WI24 Practice 0 (Lower Div)](https://vjudge.net/contest/604358)
+- [WI24 Practice 0 (Upper Div)](https://vjudge.net/contest/604357)
+- [WI24 Practice 2 (Upper Div)](https://vjudge.net/contest/605846)
+- [WI24 Practice 3](https://vjudge.net/contest/607302)
+- [WI24 Practice 4](https://vjudge.net/contest/608751)
+- [WI24 Practice 5](https://vjudge.net/contest/609895)
+- [WI24 Practice 7](https://vjudge.net/contest/611255)
