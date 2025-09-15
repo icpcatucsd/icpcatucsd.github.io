@@ -1,6 +1,6 @@
 ---
 title: "Team Selection"
-date: 2024-08-18T13:05:40-07:00
+date: 2025-09-14T13:05:40-07:00
 draft: false
 ---
 
@@ -8,11 +8,11 @@ draft: false
 
 Every year, our club can send 5-7 teams of 3 students each to compete at SoCal Regional, depending on how many team slots SoCal gives us.
 
-SoCal Regional will be on **November 16, 2024.**
+SoCal Regional will be on **November 15, 2025.**
 
 We select teams for SoCal by holding an individual contest at UCSD with similar problems and a similar time limit. The top 21 contestants form teams of 3, then all teams are ranked by performance in the individual contest. The top teams (however many we are allowed to bring) go to SoCal.
 
-We will hold our 2024 team selection contest on **October 19, 2024.** Additionally, we will hold individual and team practices on weekends before and after the team selection contest to prepare for SoCal.
+We will hold our 2025 team selection contest on **October 18, 2025.** Additionally, we will hold individual and team practices on weekends before and after the team selection contest to prepare for SoCal.
 
 ## Team Selection Contest Rules
 
