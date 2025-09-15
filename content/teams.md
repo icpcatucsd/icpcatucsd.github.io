@@ -24,6 +24,10 @@ The current board members are:
 
 ## Competing Teams from UCSD
 
+{{< figure src="/images/ICPC2025Team_1.jpg" alt="CSE Basement" width="975px" title="Team CSE Basement">}}
+
+- In 2024-2025, Team CSE Basement (UCSD's Team 1) placed 2nd at the Southern California Regional and advanced to the North American Championship, where they placed 21st. The team members are Benjamin Johnson, Manu Bhat, and Pu Yang.
+
 {{< figure src="/images/ICPC2024Team_1.jpg" alt="Fallen Star" width="975px" title="Team Fallen Star">}}
 
 - In 2023-2024, Team Fallen Star (UCSD's Team 1) advanced to the North American Championship and placed 5th, earning a bronze medal. Team Fallen Star advanced to the World Finals, and ranked 51st, earning an Honors rank. The team members are Zexing Chen, Shang Zhou, and Stanislaw Strzelecki.
