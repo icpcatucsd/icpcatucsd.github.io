@@ -22,7 +22,7 @@ Below are some resources for learning and practicing competitive programming.
 
 - [Codeforces](https://codeforces.com): This is one of the most famous competitive programming websites.
   You can participate in online competitions, solve problems from a huge problem bank, and learn from blogs and website solutions. A few of our favorites are
-  [1](https://codeforces.com/blog/entry/57282) and[2](https://codeforces.com/blog/entry/55274).
+   [1](https://codeforces.com/blog/entry/57282) and [2](https://codeforces.com/blog/entry/55274).
 - [VJudge](https://vjudge.net/): An online judge platform where you can participate in programming competitions by submitting problems to various other platforms. **We also hold our weekly contests on VJudge**
 - [Kattis](https://open.kattis.com) hosts several official contests (you can find many regionals and world finals here).
 - [CodeChef](https://www.codechef.com/) Code-Chef is an online educational program and competitive programming community of global programmers.

@@ -6,7 +6,7 @@ draft: false
 
 ## Weekly Meeting Schedule
 
-Our Fall 2025 weekly meeting time will be announced during Week 1. At each meeting, we learn new algorithm/data structures concepts through practice competition problems.
+Our Fall 2025 weekly meeting time will be announced during Week 1. At each meeting, we learn new algorithm and data structures concepts through practice competition problems.
 
 ## Practice Contest Schedule
 
@@ -16,7 +16,7 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th style="border: 1px solid #dee2e6; padding: 12px; text-align: left; width: 45%;">Special Events</th>
+      <th style="border: 1px solid #dee2e6; padding: 12px; text-align: left; width: 45%;">Event</th>
       <th style="border: 1px solid #dee2e6; padding: 12px; text-align: left; width: 35%;">Date</th>
       <th style="border: 1px solid #dee2e6; padding: 12px; text-align: left; width: 20%;">Location</th>
     </tr>
@@ -39,7 +39,7 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Deadline to form teams for Socal Regionals</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 5, Sun 10/26</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Sun 10/26</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;"></td>
     </tr>
     <tr>
