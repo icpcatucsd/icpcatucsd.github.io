@@ -3,7 +3,9 @@ date: 2020-12-20T20:50:26-08:00
 draft: false
 ---
 
-Welcome to the Competitive Programming (CP) Club at UC San Diego! We are a student organization devoted to helping programmers excel in problem-solving techniques involving computer algorithms and data structures, as well as engaging in various algorithmic programming competitions.
+## Welcome to the Competitive Programming (CP) Club at UC San Diego!
+
+We are a student organization devoted to helping programmers excel in problem-solving techniques involving computer algorithms and data structures, as well as engaging in various algorithmic programming competitions.
 
 # Overview
 
@@ -11,3 +13,12 @@ The [International Collegiate Programming Contest (ICPC)](https://en.wikipedia.o
 [North America Championship](https://nac.icpc.global/) and eventually to the [World Finals](<(https://icpc.global/)>).
 
 {{< figure src="/images/socal_2024.jpg" alt="SoCal 2023" width="975px" title="UCSD Teams at SoCal Regional 2024">}}
+
+{{< rawhtml >}}
+<div style="text-align: center; margin: 40px 0;">
+  <p style="font-size: 14px; color: #666; margin-bottom: 10px;">Sponsored by</p>
+  <a href="https://www.janestreet.com/" target="_blank">
+    <img src="/images/Jane_Street.png" alt="Jane Street" style="height: 60px;">
+  </a>
+</div>
+{{< /rawhtml >}}

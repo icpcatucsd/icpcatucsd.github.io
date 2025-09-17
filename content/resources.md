@@ -16,13 +16,16 @@ Below are some resources for learning and practicing competitive programming.
   available for purchase and the 1st edition is available as a PDF
   [here](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
 - [cp-algorithms](https://cp-algorithms.com/): A website that contains dozens of implementations of useful algorithms.
-- [Geeks for Geeks](https://www.geeksforgeeks.org/): This site provides lots of information on common algorithms.
+- [USACO Guide](https://usaco.guide/): Comprehensive competitive programming curriculum with structured learning paths and high-quality explanations.
+- [CSES Problem Set](https://cses.fi/problemset/): Curated collection of essential competitive programming problems with clean problem statements.
 
 ## Competition/Practice Sites
 
 - [Codeforces](https://codeforces.com): This is one of the most famous competitive programming websites.
   You can participate in online competitions, solve problems from a huge problem bank, and learn from blogs and website solutions. A few of our favorites are
    [1](https://codeforces.com/blog/entry/57282) and [2](https://codeforces.com/blog/entry/55274).
+- [AtCoder](https://atcoder.jp/): A Japanese competitive programming platform known for high-quality problems and regular contests. Great for practicing algorithmic thinking with problems that often have elegant solutions.
+- [QOJ](https://qoj.ac/): A competitive programming platform specifically designed for ICPC practice. Features problems from various ICPC regionals and world finals, making it perfect for team preparation.
 - [VJudge](https://vjudge.net/): An online judge platform where you can participate in programming competitions by submitting problems to various other platforms. **We also hold our weekly contests on VJudge**
 - [Kattis](https://open.kattis.com) hosts several official contests (you can find many regionals and world finals here).
 - [CodeChef](https://www.codechef.com/) Code-Chef is an online educational program and competitive programming community of global programmers.
@@ -89,3 +92,4 @@ All contest passwords are "ucsd_icpc".
 - [WI24 Practice 4](https://vjudge.net/contest/608751)
 - [WI24 Practice 5](https://vjudge.net/contest/609895)
 - [WI24 Practice 7](https://vjudge.net/contest/611255)
+
