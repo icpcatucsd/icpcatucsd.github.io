@@ -2,6 +2,7 @@ baseURL = "https://icpcatucsd.github.io/"
 languageCode = "en-us"
 title = "Competitive Programming Club at UC San Diego"
 
+
 [menu]
   [[menu.main]]
     identifier = "teams"
