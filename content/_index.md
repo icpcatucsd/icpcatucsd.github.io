@@ -5,7 +5,7 @@ draft: false
 
 ## Welcome to the Competitive Programming (CP) Club at UC San Diego!
 
-We are a student organization devoted to helping programmers excel in problem-solving techniques involving computer algorithms and data structures, as well as engaging in various algorithmic programming competitions.
+We are a student organization devoted to helping programmers excel in problem-solving techniques involving computer algorithms and data structures, as well as engaging in various algorithmic programming competitions. Join the [Slack](https://join.slack.com/t/ucsdcp/shared_invite/zt-3f8vpc4ww-9637OKb~eQHVyruAzuYCfw) to stay up-to-date on our latest communications!
 
 # Overview
 

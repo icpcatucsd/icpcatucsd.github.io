@@ -4,9 +4,9 @@ date: 2025-09-14T13:06:49-07:00
 draft: false
 ---
 
-## Weekly Meeting Schedule
+## Weekly Topic Meeting Schedule
 
-Our Fall 2025 weekly meeting time will be announced during Week 1. At each meeting, we learn new algorithm and data structures concepts through practice competition problems.
+Our Fall 2025 weekly topic meeting are Tuesdays 6-8pm. At each meeting, we learn new algorithm and data structures concepts through practice competition problems.
 
 ## Practice Contest Schedule
 
@@ -25,7 +25,7 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Team Selection Practice Contest 1 Mirror</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Week 1, Sat 10/04 12pm-5pm</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Remote Contest</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Remote Contest (Link posted on <a href="https://join.slack.com/t/ucsdcp/shared_invite/zt-3f8vpc4ww-9637OKb~eQHVyruAzuYCfw">Slack</a>)</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Team Selection Practice Contest 2</td>

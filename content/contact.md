@@ -8,11 +8,9 @@ draft: false
 
 - **Slack**: [Click here](https://join.slack.com/t/ucsdcp/signup) to join our Slack workspace
 
-- **Instagram**: [@icpc_ucsd](https://www.instagram.com/icpc_ucsd/)
+- **Instagram**: [@icpcatucsandiego](https://www.instagram.com/icpcatucsandiego/)
 
 - **Email**: [icpc@ucsd.edu](mailto:icpc@ucsd.edu)
-
-- **LinkedIn**: [https://www.linkedin.com/company/104640590](https://www.linkedin.com/company/104640590)
 
 {{< rawhtml >}}
 <div style="text-align: center; margin: 40px 0;">
