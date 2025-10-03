@@ -36,3 +36,12 @@ Please note that while we take precautions, the Contest Officials cannot guarant
   2. **Total Elapsed Time**: In case of a tie, rankings will consider the total time taken to solve each problem, down to the second. A penalty of 1200 seconds (20 minutes) will be added for each rejected submission that leads to a successful solution later.
   3. **Fewest Rejected Submissions**: The number of initial rejections for problems that are eventually solved will also factor into the rankings.
 - **Communication During the Contest**: Contestants may only communicate with contest officials during the contest.
+
+{{< rawhtml >}}
+<div style="text-align: center; margin: 40px 0;">
+  <p style="font-size: 14px; color: #666; margin-bottom: 10px;">Sponsored by</p>
+  <a href="https://www.janestreet.com/" target="_blank">
+    <img src="/images/Jane_Street.png" alt="Jane Street" style="height: 60px;">
+  </a>
+</div>
+{{< /rawhtml >}}

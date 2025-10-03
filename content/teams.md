@@ -31,3 +31,12 @@ The current board members are:
 {{< figure src="/images/ICPC2024Team_1.jpg" alt="Fallen Star" width="975px" title="Team Fallen Star">}}
 
 - In 2023-2024, Team Fallen Star (UCSD's Team 1) advanced to the North American Championship and placed 5th, earning a bronze medal. Team Fallen Star advanced to the World Finals, and ranked 51st, earning an Honors rank. The team members are Zexing Chen, Shang Zhou, and Stanislaw Strzelecki.
+
+{{< rawhtml >}}
+<div style="text-align: center; margin: 40px 0;">
+  <p style="font-size: 14px; color: #666; margin-bottom: 10px;">Sponsored by</p>
+  <a href="https://www.janestreet.com/" target="_blank">
+    <img src="/images/Jane_Street.png" alt="Jane Street" style="height: 60px;">
+  </a>
+</div>
+{{< /rawhtml >}}

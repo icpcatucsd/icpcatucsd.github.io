@@ -93,3 +93,12 @@ All contest passwords are "ucsd_icpc".
 - [WI24 Practice 5](https://vjudge.net/contest/609895)
 - [WI24 Practice 7](https://vjudge.net/contest/611255)
 
+{{< rawhtml >}}
+<div style="text-align: center; margin: 40px 0;">
+  <p style="font-size: 14px; color: #666; margin-bottom: 10px;">Sponsored by</p>
+  <a href="https://www.janestreet.com/" target="_blank">
+    <img src="/images/Jane_Street.png" alt="Jane Street" style="height: 60px;">
+  </a>
+</div>
+{{< /rawhtml >}}
+

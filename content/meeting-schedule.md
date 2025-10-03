@@ -29,12 +29,12 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Team Selection Practice Contest 2</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 2, Sat 10/11 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 2, Sat 10/11 11am-4pm</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;"><strong>Team Selection Contest</strong></td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 3, Sat 10/18 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 3, Sat 10/18 11am-4pm</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
     </tr>
     <tr>
@@ -44,12 +44,12 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">SoCal Regional Practice Contest 1</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 5, Sat 11/1 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 5, Sat 11/1 11am-4pm</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">SoCal Regional Practice Contest 2</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 6, Sat 11/08 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 6, Sat 11/08 11am-4pm</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
     </tr>
     <tr>
@@ -59,6 +59,15 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     </tr>
   </tbody>
 </table>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="text-align: center; margin: 40px 0;">
+  <p style="font-size: 14px; color: #666; margin-bottom: 10px;">Sponsored by</p>
+  <a href="https://www.janestreet.com/" target="_blank">
+    <img src="/images/Jane_Street.png" alt="Jane Street" style="height: 60px;">
+  </a>
+</div>
 {{< /rawhtml >}}
 
 
