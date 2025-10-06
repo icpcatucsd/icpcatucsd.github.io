@@ -6,7 +6,7 @@ draft: false
 
 ## Weekly Topic Meeting Schedule
 
-Our Fall 2025 weekly topic meeting are Tuesdays 6-8pm. At each meeting, we learn new algorithm and data structures concepts through practice competition problems.
+Our Fall 2025 weekly topic meeting are Tuesdays 6-8pm in EBU3B B230 (CSE basement). At each meeting, we learn new algorithm and data structures concepts through practice competition problems.
 
 ## Practice Contest Schedule
 
@@ -30,12 +30,12 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Team Selection Practice Contest 2</td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Week 2, Sat 10/11 11am-4pm</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">EBU3B B230</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;"><strong>Team Selection Contest</strong></td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 3, Sat 10/18 11am-4pm</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 3, Sat 10/18 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">EBU3B B230</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Deadline to form teams for Socal Regionals</td>
@@ -44,18 +44,18 @@ In addition to weekly topic meetings, we will have a series of contests in prepa
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">SoCal Regional Practice Contest 1</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 5, Sat 11/1 11am-4pm</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 5, Sat 11/1 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">EBU3B B230</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;">SoCal Regional Practice Contest 2</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 6, Sat 11/08 11am-4pm</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Week 6, Sat 11/08 12pm-5pm</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">EBU3B B230</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dee2e6; padding: 12px;"><strong>SoCal Regional</strong></td>
       <td style="border: 1px solid #dee2e6; padding: 12px;">Week 7, Sat 11/15 7am-6pm</td>
-      <td style="border: 1px solid #dee2e6; padding: 12px;">In-person</td>
+      <td style="border: 1px solid #dee2e6; padding: 12px;">Riverside, CA</td>
     </tr>
   </tbody>
 </table>
