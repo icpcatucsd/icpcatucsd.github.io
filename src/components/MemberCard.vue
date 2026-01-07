@@ -1,0 +1,72 @@
+<template>
+  <div class="card member-card">
+    <img v-if="src" :src="src" :alt="`${fullName} profile photo`" class="avatar" loading="lazy" />
+    <div v-else class="avatar placeholder" aria-hidden="true">
+      <svg class="avatar-icon" viewBox="0 0 24 24">
+        <path :d="mdiAccountCircle" />
+      </svg>
+    </div>
+
+    <header class="member-header">
+      <h3 class="card-title name">{{ fullName }}</h3>
+      <p class="card-subtitle role">{{ role }}</p>
+    </header>
+
+    <p class="bio">{{ bio }}</p>
+  </div>
+</template>
+
+<script setup>
+import { mdiAccountCircle } from '@mdi/js'
+
+defineProps({
+  fullName: { type: String, required: true },
+  role: { type: String, required: true },
+  src: { type: String, default: '' },
+  bio: { type: String, required: true },
+})
+</script>
+
+<style scoped>
+.member-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.8rem;
+  padding: var(--card-padding-tall);
+  text-align: center;
+}
+
+.avatar {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.avatar.placeholder {
+  background: var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar-icon {
+  width: 5rem;
+  height: 5rem;
+  fill: var(--text-secondary);
+}
+
+.member-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (max-width: 500px) {
+  .member-card {
+    gap: 1.5rem;
+  }
+}
+</style>

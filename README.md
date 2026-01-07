@@ -1,24 +1,29 @@
-# Competitive Programming Club at UCSD Website
+# icpc-website
 
-This repository contains the website for the Competitive Programming Club at
-UCSD.
+This template should help get you started developing with Vue 3 in Vite.
 
-## Hugo
+## Recommended IDE Setup
 
-This project uses Hugo. You can install Hugo [here](https://gohugo.io/installation/), and view the documentation [here](https://gohugo.io/documentation/).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## File Organization
+## Customize configuration
 
-Each page's content lives in a file in `content/[filename].md`; for example, `/teams` is in `content/teams.md`. A special case is `/` is in `content/_index.md`. You can edit the markdown content in the appropriate file to make changes to a certain page.
+See [Vite Configuration Reference](https://vite.dev/config/).
 
-To create a new page, run `hugo new content content/[page-name].md` (see [here](https://gohugo.io/getting-started/quick-start/#add-content)).
+## Project Setup
 
-Static files (e.g. images, PowerPoint presentations from past lessons) are located in `static`.
+```sh
+npm install
+```
 
-## Local Development
+### Compile and Hot-Reload for Development
 
-1. Run `hugo server -D`
-2. Visit http://localhost:1313/
+```sh
+npm run dev
+```
 
-## Deploying Changes
-To update the public website (https://ucsdicpc.github.io), push your changes to the `main` branch. This will then trigger a GitHub action that builds and pushes static files to the GitHub Pages deployment.
+### Compile and Minify for Production
+
+```sh
+npm run build
+```

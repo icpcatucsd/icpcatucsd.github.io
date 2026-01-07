@@ -1,0 +1,206 @@
+:root {
+  --font-primary: 'Lexend Deca', sans-serif;
+
+  --text-primary: #374151;
+  --text-secondary: #636875;
+  --text-tertiary: #7b7f8a;
+  --text-brand-title: #1f2933;
+  --text-brand-sub: #6b7280;
+  --text-nav: #374151;
+  --text-muted: #9ca3af;
+  --text-btn: #ffffff;
+  --text-hero-title: #0f172a;
+  --text-hero-sub: #475569;
+  --text-section-title: #1f2933;
+  --text-page-title: var(--text-hero-title);
+  --text-card-title: var(--text-nav);
+
+  --hightlight: #2563eb;
+  --hightlight-hover: #1d4ed8;
+
+  --logo: #edba45;
+  --glow: #60a5fa;
+  --link: #3b82f6;
+  --divider: rgba(15, 23, 42, 0.05);
+  --border: rgba(15, 23, 42, 0.08);
+
+  --bg-nav: #ffffff;
+  --bg-gradient: linear-gradient(to bottom, #ffffff 0%, #f1f5f9 100%);
+  --bg-card-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(248, 250, 252, 0.1));
+
+  --container-max-width: 1440px;
+  --page-py: 3rem;
+  --page-px: 4rem;
+  --page-padding: var(--page-py) var(--page-px);
+  --section-mt: 5rem;
+  --section-first-mt: 3.5rem;
+  --nav-height: 4.5rem;
+  --nav-px: 1.5rem;
+
+  --card-padding: 2rem;
+  --card-padding-tall: 2.5rem 2rem;
+  --card-title-fs: 1.25rem;
+  --card-sub-fs: 1rem;
+  --card-body-fs: 0.95rem;
+}
+
+/* Dark mode */
+[data-theme='dark'] {
+  --text-primary: #d1d5db;
+  --text-secondary: #cbd5e1;
+  --text-tertiary: #b8c0cc;
+  --text-brand-title: #f9fafb;
+  --text-brand-sub: #9ca3af;
+  --text-nav: #e5e7eb;
+  --text-muted: #6b7280;
+  --text-hero-title: #f8fafc;
+  --text-hero-sub: #cbd5e1;
+  --text-section-title: #f1f5f9;
+
+  --logo: #f9fafb;
+  --divider: rgba(226, 232, 240, 0.07);
+  --border: rgba(226, 232, 240, 0.07);
+
+  --bg-nav: #020617;
+  --bg-gradient: linear-gradient(to bottom, #020617 0%, #0b1220 60%, #0f172a 100%);
+  --bg-card-gradient: linear-gradient(180deg, rgba(30, 41, 59, 0.85), rgba(15, 23, 42, 0.85));
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-primary);
+  font-size: 1rem;
+  background: var(--bg-gradient);
+  color: var(--text-primary);
+  min-width: 300px;
+  min-height: 100vh;
+}
+
+.page,
+.section,
+.container {
+  box-sizing: border-box;
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+}
+
+.page {
+  padding: var(--page-padding);
+}
+
+.section {
+  margin-top: var(--section-mt);
+}
+
+.section--first {
+  margin-top: var(--section-first-mt);
+}
+
+.page h1 {
+  font-size: 2.25rem;
+  margin-bottom: 1rem;
+  color: var(--text-page-title);
+}
+
+.section-title {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  color: var(--text-section-title);
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+}
+
+p,
+li {
+  line-height: 1.7;
+}
+
+ul,
+ol {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+.p-groups p:not(:first-of-type) {
+  margin-top: 0.75rem;
+}
+
+.card-grid {
+  display: grid;
+  align-items: stretch;
+}
+
+.card-grid--wide {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.card-grid--narrow {
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}
+
+.card {
+  background: var(--bg-card-gradient);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  color: var(--text-secondary);
+  font-size: var(--card-body-fs);
+}
+
+.card-title {
+  color: var(--text-card-title);
+  font-size: var(--card-title-fs);
+  font-weight: 600;
+}
+
+.card-subtitle {
+  color: var(--text-primary);
+  font-size: var(--card-sub-fs);
+}
+
+@media (max-width: 900px) {
+  .card-grid {
+    gap: 2rem;
+  }
+
+  .card-grid--wide,
+  .card-grid--narrow {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 700px) {
+  :root {
+    --page-px: 3rem;
+    --section-mt: 4rem;
+    --section-first-mt: 3rem;
+  }
+
+  .section-title {
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  :root {
+    --page-px: 2rem;
+    --card-padding: 1.5rem;
+    --card-padding-tall: 2rem 1.5rem;
+    --card-title-fs: 1.1rem;
+    --card-sub-fs: 0.95rem;
+    --card-body-fs: 0.9rem;
+  }
+
+  body {
+    font-size: 0.95rem;
+  }
+}
