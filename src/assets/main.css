@@ -153,6 +153,7 @@ li {
   border-radius: 1rem;
   color: var(--text-secondary);
   font-size: var(--card-body-fs);
+  overflow: hidden;
 }
 
 .card-title {
