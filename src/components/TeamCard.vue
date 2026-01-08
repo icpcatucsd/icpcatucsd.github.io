@@ -3,7 +3,7 @@
     <img :src="src" :alt="`${teamName} photo`" class="team-photo" loading="lazy" />
 
     <div class="team-text">
-      <h3 class="card-title name">{{ teamName }}</h3>
+      <h3 class="card-title">{{ teamName }}</h3>
       <p class="description">{{ description }}</p>
     </div>
   </div>

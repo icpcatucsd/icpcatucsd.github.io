@@ -8,8 +8,8 @@
     </div>
 
     <header class="member-header">
-      <h3 class="card-title name">{{ fullName }}</h3>
-      <p class="card-subtitle role">{{ role }}</p>
+      <h3 class="card-title">{{ fullName }}</h3>
+      <p class="card-subtitle">{{ role }}</p>
     </header>
 
     <p class="bio">{{ bio }}</p>

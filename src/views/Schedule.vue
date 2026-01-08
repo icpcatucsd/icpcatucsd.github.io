@@ -6,7 +6,7 @@
       below reflects the most up-to-date schedule.
     </p>
 
-    <section class="section section--first event-type-card-grid card-grid card-grid--narrow">
+    <section class="section section--first card-grid">
       <EventTypeCard
         event-type="Weekly Topic Meetings"
         description="Our Winter2026 weekly topic meeting are Fridays 6-8pm in EBU3B B230 (CSE basement). At each
@@ -41,10 +41,6 @@ import EventTypeCard from '@/components/EventTypeCard.vue'
 </script>
 
 <style scoped>
-.event-type-card-grid {
-  gap: 2rem;
-}
-
 .google-calendar {
   width: 100%;
   height: 55vw;

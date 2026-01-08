@@ -1,7 +1,7 @@
 <template>
   <div class="card event-type-card">
-    <h3 class="card-title event-type">{{ eventType }}</h3>
-    <p class="description">{{ description }}</p>
+    <h3 class="card-title">{{ eventType }}</h3>
+    <p>{{ description }}</p>
   </div>
 </template>
 
@@ -19,9 +19,5 @@ defineProps({
   align-items: flex-start;
   gap: 1rem;
   padding: var(--card-padding);
-}
-
-.description {
-  text-align: start;
 }
 </style>

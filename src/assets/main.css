@@ -137,14 +137,16 @@ li {
 .card-grid {
   display: grid;
   align-items: stretch;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
 }
 
-.card-grid--wide {
+.card-grid--col2 {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.card-grid--narrow {
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+.card-grid--lg-gap {
+  gap: 3.5rem 2.5rem;
 }
 
 .card {
@@ -168,12 +170,13 @@ li {
 }
 
 @media (max-width: 900px) {
-  .card-grid {
+  .card-grid,
+  .card-grid--lg-gap {
     gap: 2rem;
   }
 
-  .card-grid--wide,
-  .card-grid--narrow {
+  .card-grid,
+  .card-grid--col2 {
     grid-template-columns: 1fr;
   }
 }
@@ -194,6 +197,7 @@ li {
 @media (max-width: 500px) {
   :root {
     --page-px: 2rem;
+    --nav-px: 1.3rem;
     --card-padding: 1.5rem;
     --card-padding-tall: 2rem 1.5rem;
     --card-title-fs: 1.1rem;

@@ -7,7 +7,7 @@
     <section class="section section--first leadership-team">
       <h2 class="section-title">Leadership Team</h2>
 
-      <div class="member-card-grid card-grid card-grid--narrow">
+      <div class="card-grid card-grid--lg-gap">
         <MemberCard
           fullName="Shang Zhou"
           src="/assets/teams/leadership/shang.jpg"
@@ -62,7 +62,7 @@
     <section class="section competing-teams">
       <h2 class="section-title">Competing Teams from UCSD</h2>
 
-      <div class="team-card-grid card-grid card-grid--wide">
+      <div class="card-grid card-grid--col2 card-grid--lg-gap">
         <TeamCard
           src="/assets/teams/competing/ICPC2025Team.jpg"
           team-name="Team CSE Basement"
@@ -83,10 +83,3 @@
 import MemberCard from '@/components/MemberCard.vue'
 import TeamCard from '@/components/TeamCard.vue'
 </script>
-
-<style scoped>
-.member-card-grid,
-.team-card-grid {
-  gap: 3.5rem 2.5rem;
-}
-</style>

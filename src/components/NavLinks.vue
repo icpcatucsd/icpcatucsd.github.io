@@ -30,11 +30,11 @@
         <span class="nav-text">Resources</span>
       </RouterLink>
     </li>
-    <!-- <li>
+    <li>
       <RouterLink to="/contact-us">
         <span class="nav-text">Contact Us</span>
       </RouterLink>
-    </li> -->
+    </li>
   </ul>
 </template>
 

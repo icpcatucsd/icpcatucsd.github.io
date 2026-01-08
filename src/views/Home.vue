@@ -52,9 +52,9 @@
 </template>
 
 <script setup>
-import { LINKS } from '@/config/links'
 import CtaBtn from '@/components/CtaBtn.vue'
 import XLink from '@/components/XLink.vue'
+import { LINKS } from '@/config/links'
 </script>
 
 <style scoped>

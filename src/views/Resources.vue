@@ -3,7 +3,7 @@
     <h1>Resources</h1>
     <p>Below are some resources for learning and practicing competitive programming.</p>
 
-    <section class="section section--first resource-grid card-grid card-grid--wide">
+    <section class="section section--first card-grid card-grid--col2 card-grid--lg-gap">
       <!-- Educational Resources -->
       <section class="card resource-card">
         <h2 class="card-title">Educational Resources</h2>
@@ -258,23 +258,19 @@ const fall2023Contests = [
 </script>
 
 <style scoped>
-.resource-grid {
-  gap: 3.5rem 2.5rem;
-}
-
 .resource-card {
   padding: var(--card-padding);
 }
 
 .resource-card h2 {
   font-size: 1.3rem;
-  color: var(--text-section-title);
+  color: var(--text-card-title);
   margin-bottom: 1rem;
 }
 
 .resource-card h3 {
   font-size: 1.1rem;
-  color: var(--text-section-title);
+  color: var(--text-primary);
   margin: 2rem 0 1rem;
 }
 

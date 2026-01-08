@@ -17,7 +17,7 @@ const props = defineProps({
   variant: {
     type: String,
     default: 'primary',
-    validator: (v) => ['primary', 'secondary'].includes(v),
+    validator: (v) => ['primary', 'secondary', 'tertiary'].includes(v),
   },
   external: { type: Boolean, default: false },
 })
@@ -73,6 +73,13 @@ const linkAttrs = computed(() => {
   border: 2px solid var(--hightlight);
 }
 
+.cta--tertiary {
+  --cta-px: 0;
+  --cta-py: 0;
+
+  color: var(--hightlight);
+}
+
 .cta--primary:hover {
   background: var(--hightlight-hover);
   transform: translateY(-1px);
@@ -94,7 +101,8 @@ const linkAttrs = computed(() => {
   fill: var(--text-btn);
 }
 
-.cta--secondary .cta-icon {
+.cta--secondary .cta-icon,
+.cta--tertiary .cta-icon {
   fill: var(--hightlight);
 }
 
