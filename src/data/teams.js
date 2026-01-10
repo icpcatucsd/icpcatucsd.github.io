@@ -37,6 +37,7 @@ export const LEADERSHIP = [
   },
 ]
 
+// Please order from latest to oldest
 export const COMPETING_TEAMS = [
   {
     teamName: 'Team CSE Basement',

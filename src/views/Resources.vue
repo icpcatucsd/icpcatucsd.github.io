@@ -77,7 +77,7 @@
 
       <!-- Past Lesson Slides -->
       <section class="card resource-card">
-        <h2>Past Lesson Slide</h2>
+        <h2>Past Lesson Slides</h2>
 
         <!-- Show the two most recent terms -->
         <section v-for="term in SLIDES_BY_TERM.slice(0, 2)" :key="term.term">

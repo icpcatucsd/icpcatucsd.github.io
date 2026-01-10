@@ -1,3 +1,4 @@
+// Please order from latest to oldest
 export const HISTORY_ITEMS = [
   {
     year: '2024',

@@ -53,6 +53,13 @@ const router = createRouter({
       component: NotFound,
     },
   ],
+  // Scroll to top on navigation; restore scroll on back/forward
+  scrollBehavior(_, __, savedPosition) {
+    if (savedPosition) {
+      return savedPosition
+    }
+    return { top: 0 }
+  },
 })
 
 export default router
