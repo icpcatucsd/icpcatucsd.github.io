@@ -7,23 +7,22 @@
     </p>
 
     <section class="section section--first card-grid">
-      <EventTypeCard
-        event-type="Weekly Topic Meetings"
-        :description="`Our ${WEEKLY_MEETING.quarter} weekly topic meeting are ${WEEKLY_MEETING.time} in ${WEEKLY_MEETING.location}. At each
-      meeting, we learn new algorithm and data structures concepts through practice competition
-      problems.`"
-      />
+      <EventTypeCard event-type="Weekly Topic Meetings">
+        Our <strong>{{ WEEKLY_MEETING.quarter }}</strong> weekly topic meetings are held
+        <strong>{{ WEEKLY_MEETING.time }}</strong> in the
+        <strong>{{ WEEKLY_MEETING.location }}</strong
+        >. At each meeting, we learn new algorithms and data structure concepts through practice
+        competition problems.
+      </EventTypeCard>
 
-      <EventTypeCard
-        event-type="Practice Contests"
-        description="The team selection contest and practice contests are held during the Fall quarter in
-      preparation for the ICPC SoCal Regional."
-      />
+      <EventTypeCard event-type="Practice Contests">
+        The team selection contest and practice contests are held during the
+        <strong>Fall quarter</strong> in preparation for the ICPC SoCal Regional.
+      </EventTypeCard>
 
-      <EventTypeCard
-        event-type="Other Events"
-        description="We occasionally host additional events such as alumni talks, workshops, and contests"
-      />
+      <EventTypeCard event-type="Other Events">
+        We occasionally host additional events such as alumni talks, workshops, and contests.
+      </EventTypeCard>
     </section>
 
     <section class="section">

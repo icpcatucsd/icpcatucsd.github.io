@@ -1,14 +1,15 @@
 <template>
   <div class="card event-type-card">
     <h3 class="card-title">{{ eventType }}</h3>
-    <p>{{ description }}</p>
+    <p>
+      <slot />
+    </p>
   </div>
 </template>
 
 <script setup>
 defineProps({
   eventType: { type: String, required: true },
-  description: { type: String, required: true },
 })
 </script>
 
