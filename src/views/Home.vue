@@ -198,6 +198,7 @@ import { LINKS } from '@/data/links'
 
   .about {
     margin-top: 1rem;
+    gap: 4rem;
   }
 }
 </style>

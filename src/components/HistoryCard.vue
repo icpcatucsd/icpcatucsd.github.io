@@ -89,8 +89,7 @@ defineProps({
 
 @media (max-width: 900px) {
   .history-card {
-    display: flex;
-    flex-direction: column;
+    grid-template-columns: 1fr;
   }
 }
 
