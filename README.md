@@ -8,8 +8,6 @@ Official website source code for the Competitive Programming Club at UC San Dieg
 
 ## Project Setup ⚙️
 
-/Users/julie/Documents/GitHub/icpcatucsd.github.io/src/assets
-
 ```sh
 npm install
 ```
