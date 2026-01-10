@@ -18,8 +18,8 @@
         <MemberCard
           fullName="Gram Koski"
           src="/assets/teams/leadership/gram.jpg"
-          role="Vice President"
-          bio="Hello, I'm Gram. I am a Math-Computer Science major in my third year at UCSD. I am originally from San Francisco. I enjoy speeding up machine learning models, GPU programming, and algorithms. Outside of coding, you may find me rock climbing or watching Youtube. I am looking forward to helping organize UCSD competitive programming!"
+          role="Co-president"
+          bio="Hello, I'm Gram. I am a third-year Math-Computer Science major. I am originally from San Francisco. I enjoy speeding up ML models and cool algorithms. Outside of coding, you may find me rock climbing or watching Youtube. I am looking forward to helping organize competitive programming at UCSD!"
         />
 
         <MemberCard
@@ -27,13 +27,6 @@
           src="/assets/teams/leadership/julie.jpg"
           role="Web Director"
           bio="Hi, I'm Julie 👋 I'm a Computer Science major at UCSD. I love coding and reading, and I'm also a big fan of animated movies. I recently redesigned the club website entirely, and I hope you like it! If you'd like to add any features, please let me know."
-        />
-
-        <MemberCard
-          fullName="Rex Chao"
-          src="/assets/teams/leadership/rex.jpg"
-          role="Technology Director"
-          bio="Hi, I'm Rex! I'm a fourth-year Math-CS major at UCSD, originally from Taiwan. I started competitive programming 1 year ago and got really into it - I love solving hard problems and pushing myself to new limits. When I'm not coding, you'll find me cafe searching and traveling over the world!"
         />
 
         <MemberCard

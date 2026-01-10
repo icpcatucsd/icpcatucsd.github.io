@@ -9,7 +9,7 @@
     <section class="section section--first card-grid">
       <EventTypeCard
         event-type="Weekly Topic Meetings"
-        description="Our Winter2026 weekly topic meeting are Fridays 6-8pm in EBU3B B230 (CSE basement). At each
+        description="Our Winter 2026 weekly topic meeting are Fridays 6-8pm in CSE basement. At each
       meeting, we learn new algorithm and data structures concepts through practice competition
       problems."
       />
