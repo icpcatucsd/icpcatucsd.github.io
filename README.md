@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Competitive%20Programming%20Club-%2300629B?style=for-the-badge&label=Website&labelColor=%23FFCD00&link=https%3A%2F%2Ficpcatucsd.github.io%2F)
+[![Website](https://img.shields.io/badge/Competitive%20Programming%20Club-00629B?style=for-the-badge&label=Website&labelColor=FFCD00)](https://icpcatucsd.github.io/)
 
 # Competitive Programming Club at UC San Diego Website
 
