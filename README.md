@@ -48,7 +48,7 @@ Most routine updates can be made by editing files under `src/data`.
 - **Slack invitation link**  
   Update `src/data/links.js` regularly to keep the invitation link valid.
 
-### 🐳 Quarterly Updates
+### 📆 Quarterly Updates
 
 - **Weekly meeting** information: `src/data/schedule.js`
 - **Leadership team** information: `src/data/teams.js`
@@ -56,7 +56,7 @@ Most routine updates can be made by editing files under `src/data`.
 - **Training resources** for the term: `src/data/resources.js`
   - Add lecture slides under: `public/assets/slides`
 
-### 🌳 Annual Updates
+### 🗓️ Annual Updates
 
 - **Team selection & SoCal regional** information: `src/data/schedule.js`
 - **Competing teams** information: `src/data/teams.js`
