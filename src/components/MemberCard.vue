@@ -1,6 +1,6 @@
 <template>
   <div class="card member-card">
-    <img v-if="src" :src="src" :alt="`${fullName} profile photo`" class="avatar" loading="lazy" />
+    <img v-if="src" :src="src" :alt="fullName" class="avatar" loading="lazy" />
     <div v-else class="avatar placeholder" aria-hidden="true">
       <svg class="avatar-icon" viewBox="0 0 24 24">
         <path :d="mdiAccountCircle" />
@@ -12,7 +12,7 @@
       <p class="card-subtitle">{{ role }}</p>
     </header>
 
-    <p class="bio">{{ bio }}</p>
+    <p>{{ bio }}</p>
   </div>
 </template>
 

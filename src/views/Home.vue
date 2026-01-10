@@ -14,7 +14,7 @@
       </p>
 
       <div class="hero-cta">
-        <CtaBtn :href="LINKS.slackInvite" external> Join Slack </CtaBtn>
+        <CtaBtn :href="LINKS.slackInvite" external>Join Slack</CtaBtn>
       </div>
     </div>
   </section>
@@ -54,7 +54,7 @@
 <script setup>
 import CtaBtn from '@/components/CtaBtn.vue'
 import XLink from '@/components/XLink.vue'
-import { LINKS } from '@/config/links'
+import { LINKS } from '@/data/links'
 </script>
 
 <style scoped>

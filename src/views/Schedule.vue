@@ -9,9 +9,9 @@
     <section class="section section--first card-grid">
       <EventTypeCard
         event-type="Weekly Topic Meetings"
-        description="Our Winter 2026 weekly topic meeting are Fridays 6-8pm in CSE basement. At each
+        :description="`Our ${WEEKLY_MEETING.quarter} weekly topic meeting are ${WEEKLY_MEETING.time} in ${WEEKLY_MEETING.location}. At each
       meeting, we learn new algorithm and data structures concepts through practice competition
-      problems."
+      problems.`"
       />
 
       <EventTypeCard
@@ -38,6 +38,7 @@
 
 <script setup>
 import EventTypeCard from '@/components/EventTypeCard.vue'
+import { WEEKLY_MEETING } from '@/data/schedule'
 </script>
 
 <style scoped>

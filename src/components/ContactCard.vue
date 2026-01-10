@@ -1,12 +1,12 @@
 <template>
   <div class="card contact-card">
-    <div class="contact-card__header">
+    <header>
       <h3 class="card-title">{{ title }}</h3>
 
       <svg class="contact-icon" viewBox="0 0 24 24" aria-hidden="true">
         <path :d="icon" />
       </svg>
-    </div>
+    </header>
 
     <p>{{ description }}</p>
 
@@ -37,7 +37,7 @@ defineProps({
   padding: var(--card-padding);
 }
 
-.contact-card__header {
+.contact-card header {
   width: 100%;
   display: flex;
   align-items: center;

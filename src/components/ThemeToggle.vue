@@ -63,10 +63,4 @@ function onToggleTheme() {
 [data-theme='dark'] .toggle-thumb {
   transform: translate(23px, -50%);
 }
-
-@media (max-width: 900px) {
-  .theme-toggle {
-    transform: scale(0.9);
-  }
-}
 </style>

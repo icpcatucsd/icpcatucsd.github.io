@@ -1,10 +1,10 @@
 <template>
   <div class="card team-card">
-    <img :src="src" :alt="`${teamName} photo`" class="team-photo" loading="lazy" />
+    <img :src="src" :alt="teamName" class="team-photo" loading="lazy" />
 
     <div class="team-text">
       <h3 class="card-title">{{ teamName }}</h3>
-      <p class="description">{{ description }}</p>
+      <p>{{ description }}</p>
     </div>
   </div>
 </template>

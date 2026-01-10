@@ -8,8 +8,8 @@
 
     <!-- Overview -->
     <section class="overview">
-      <InfoCard info-label="SoCal Regional" :info-value="soCalRegionalDate" />
-      <InfoCard info-label="Team Selection Contest" :info-value="teamSelectionDate" />
+      <InfoCard info-label="SoCal Regional" :info-value="TEAM_SELECTION.soCalRegionalDate" />
+      <InfoCard info-label="Team Selection Contest" :info-value="TEAM_SELECTION.contestDate" />
       <InfoCard info-label="Typical Team Slots" info-value="5-7 teams (3 students each)" />
       <InfoCard info-label="Platform" info-value="VJudge (no AI/search)" />
     </section>
@@ -24,7 +24,7 @@
           depending on how many team slots SoCal gives us.
         </p>
         <p>
-          SoCal Regional will be on <strong>{{ soCalRegionalDate }}</strong
+          SoCal Regional will be on <strong>{{ TEAM_SELECTION.soCalRegionalDate }}</strong
           >.
         </p>
       </div>
@@ -57,8 +57,8 @@
 
       <div class="process-notes p-groups">
         <p>
-          We will hold our {{ currentYear }} team selection contest on
-          <strong>{{ teamSelectionDate }}</strong
+          We will hold our {{ TEAM_SELECTION.year }} team selection contest on
+          <strong>{{ TEAM_SELECTION.contestDate }}</strong
           >.
         </p>
         <p>
@@ -150,11 +150,7 @@
 
 <script setup>
 import InfoCard from '@/components/InfoCard.vue'
-
-// Update these dates for the current year
-const currentYear = '2025'
-const soCalRegionalDate = 'Nov 15, 2025'
-const teamSelectionDate = 'Oct 18, 2025'
+import { TEAM_SELECTION } from '@/data/schedule'
 </script>
 
 <style scoped>

@@ -20,11 +20,11 @@
         <span class="nav-text">Team Selection</span>
       </RouterLink>
     </li>
-    <!-- <li>
+    <li>
       <RouterLink to="/history">
         <span class="nav-text">History</span>
       </RouterLink>
-    </li> -->
+    </li>
     <li>
       <RouterLink to="/resources">
         <span class="nav-text">Resources</span>
