@@ -53,7 +53,7 @@
 
         <ul>
           <li v-for="site in PRACTICE_SITES" :key="site.href">
-            <XLink href="site.href">{{ site.name }}</XLink>
+            <XLink :href="site.href">{{ site.name }}</XLink>
             : {{ site.description }}
             <span v-if="site.name == 'Codeforces'">
               A few of our favorites are
