@@ -84,7 +84,7 @@ import { LINKS } from '@/data/links'
 }
 
 .hero-accent {
-  color: var(--hightlight);
+  color: var(--highlight);
 }
 
 .hero-subtitle {

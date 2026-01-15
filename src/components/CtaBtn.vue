@@ -61,7 +61,7 @@ const linkAttrs = computed(() => {
   --cta-px: 1.6rem;
 
   color: var(--text-btn);
-  background: var(--hightlight);
+  background: var(--highlight);
   box-shadow: 0 10px 30px rgba(37, 99, 235, 0.22);
 }
 
@@ -69,19 +69,19 @@ const linkAttrs = computed(() => {
   --cta-py: 0.75rem;
   --cta-px: 1.3rem;
 
-  color: var(--hightlight);
-  border: 2px solid var(--hightlight);
+  color: var(--highlight);
+  border: 2px solid var(--highlight);
 }
 
 .cta--tertiary {
   --cta-px: 0;
   --cta-py: 0;
 
-  color: var(--hightlight);
+  color: var(--highlight);
 }
 
 .cta--primary:hover {
-  background: var(--hightlight-hover);
+  background: var(--highlight-hover);
   transform: translateY(-1px);
   box-shadow: 0 14px 34px rgba(37, 99, 235, 0.28);
 }
@@ -103,7 +103,7 @@ const linkAttrs = computed(() => {
 
 .cta--secondary .cta-icon,
 .cta--tertiary .cta-icon {
-  fill: var(--hightlight);
+  fill: var(--highlight);
 }
 
 .cta:hover .cta-icon {
