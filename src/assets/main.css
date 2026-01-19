@@ -15,8 +15,8 @@
   --text-page-title: var(--text-hero-title);
   --text-card-title: var(--text-nav);
 
-  --hightlight: #2563eb;
-  --hightlight-hover: #1d4ed8;
+  --highlight: #2563eb;
+  --highlight-hover: #1d4ed8;
 
   --logo: #edba45;
   --glow: #60a5fa;
@@ -42,6 +42,8 @@
   --card-title-fs: 1.25rem;
   --card-sub-fs: 1rem;
   --card-body-fs: 0.95rem;
+
+  --calendar-filter: none;
 }
 
 /* Dark mode */
@@ -64,6 +66,8 @@
   --bg-nav: #020617;
   --bg-gradient: linear-gradient(to bottom, #020617 0%, #0b1220 60%, #0f172a 100%);
   --bg-card-gradient: linear-gradient(180deg, rgba(30, 41, 59, 0.85), rgba(15, 23, 42, 0.85));
+
+  --calendar-filter: invert(100%) hue-rotate(0.5turn) !important;
 }
 
 body {
