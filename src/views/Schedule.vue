@@ -47,5 +47,6 @@ import { WEEKLY_MEETING } from '@/data/schedule'
   max-height: 800px;
   border: 1px solid var(--border);
   border-radius: 1rem;
+  filter: var(--calendar-filter);
 }
 </style>
