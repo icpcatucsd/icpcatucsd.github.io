@@ -31,6 +31,11 @@
       </RouterLink>
     </li>
     <li>
+      <RouterLink to="/ucsd-cup">
+        <span class="nav-text">UCSD Cup</span>
+      </RouterLink>
+    </li>
+    <li>
       <RouterLink to="/contact-us">
         <span class="nav-text">Contact Us</span>
       </RouterLink>

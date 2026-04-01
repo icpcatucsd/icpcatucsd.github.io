@@ -7,6 +7,7 @@ import TeamSelection from '@/views/TeamSelection.vue'
 import History from '@/views/History.vue'
 import Resources from '@/views/Resources.vue'
 import ContactUs from '@/views/Contact.vue'
+import UcsdCup from '@/views/UcsdCup.vue'
 import NotFound from '@/views/NotFound.vue'
 
 const router = createRouter({
@@ -41,6 +42,11 @@ const router = createRouter({
       path: '/resources',
       name: 'resources',
       component: Resources,
+    },
+    {
+      path: '/ucsd-cup',
+      name: 'ucsd-cup',
+      component: UcsdCup,
     },
     {
       path: '/contact-us',

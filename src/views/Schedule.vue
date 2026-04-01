@@ -9,7 +9,9 @@
     <section class="section section--first card-grid">
       <EventTypeCard event-type="Weekly Topic Meetings">
         Our <strong>{{ WEEKLY_MEETING.quarter }}</strong> weekly topic meetings are held
-        <strong>{{ WEEKLY_MEETING.time }}</strong> in the
+        <strong>{{ WEEKLY_MEETING.time }}</strong>, starting
+        <strong>{{ WEEKLY_MEETING.starts }}</strong> and continuing
+        <strong>{{ WEEKLY_MEETING.recurrence }}</strong>, in the
         <strong>{{ WEEKLY_MEETING.location }}</strong
         >. At each meeting, we learn new algorithms and data structure concepts through practice
         competition problems.
@@ -20,8 +22,10 @@
         <strong>Fall quarter</strong> in preparation for the ICPC SoCal Regional.
       </EventTypeCard>
 
-      <EventTypeCard event-type="Other Events">
-        We occasionally host additional events such as alumni talks, workshops, and contests.
+      <EventTypeCard event-type="2026 UCSD Cup">
+        The 2026 UCSD Cup will take place on <strong>Saturday, May 23</strong> from
+        <strong>12-4pm</strong> in <strong>EBU3B B230</strong>. See the
+        <RouterLink to="/ucsd-cup">UCSD Cup page</RouterLink> for full details.
       </EventTypeCard>
     </section>
 
