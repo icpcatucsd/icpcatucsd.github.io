@@ -18,12 +18,12 @@
       </EventTypeCard>
 
       <EventTypeCard event-type="Practice Contests">
-        The team selection contest and practice contests are held during the
+        The team selection contest and practice contests are held on Saturdays during the
         <strong>Fall quarter</strong> in preparation for the ICPC SoCal Regional.
       </EventTypeCard>
 
-      <EventTypeCard event-type="2026 UCSD Cup">
-        The 2026 UCSD Cup will take place on <strong>Saturday, May 23</strong> from
+      <EventTypeCard event-type="2027 UCSD Cup">
+        More Details Coming Soon! <br> The 2026 UCSD Cup took place on <strong>Saturday, May 23</strong> from
         <strong>12-4pm</strong> in <strong>EBU3B B230</strong>. See the
         <RouterLink to="/ucsd-cup">UCSD Cup page</RouterLink> for full details.
       </EventTypeCard>
